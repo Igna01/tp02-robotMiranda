@@ -1,10 +1,11 @@
+## Preguntas pre tp
 a) ¿Qué herramientas necesita el TP? Visual C++, Python, MuJoCo, Modelos del G1 y el Go2 y la carpeta del laboratorio 
 b) ¿Qué versión de Python se requiere? 3.10+
 c) ¿Qué componentes ya están instalados en la computadora?, Python 3.14.7 y Visual C++
 d) ¿Qué componentes del repositorio oficial de Unitree no son necesarios para este laboratorio? No hace falta CycloneDDS, ni el SDK de Unitree
 e) ¿Qué diferencias observan entre el TP en PDF y la versión actual del repositorio? Salvo lo visual y cantidad de contenido nada diferencial
 
-
+## Entorno
 Sistema operativo: Windows 
 Versión del sistema operativo: Windows 11
 Arquitectura: Sistema operativo de 64 bits, procesador x64
